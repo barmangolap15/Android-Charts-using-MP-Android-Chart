@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Chart Examples</string>
+    <string name="bar_chart">Example of Bar Chart</string>
+    <string name="radar_chart">Example of Radar Chart</string>
+    <string name="pie_chart">Example of Pie Chart</string>
+
+    <string name="radar_chart_text">A radar chart is a graphical method of displaying multivariate data in the form of a two-dimensional chart of three or more quantitative variables represented on axes starting from the same point.</string>
+    <string name="pie_chart_text">A pie chart is a circular statistical graphic, which is divided into slices to illustrate numerical proportion. In a pie chart, the arc length of each slice, is proportional to the quantity it represents.</string>
+    <string name="half_pie_chart_text">A half pie chart (also, half moon or semicircle chart) is a 180 degrees graph that represents the composition of a whole. The half pie chart works like a regular pie chart.</string>
+    <string name="multiple_bar_chart_text">In a multiple bars diagram two or more sets of inter-related data are represented (multiple bar diagram facilitates comparison between more than one phenomena). The technique of making a simple bar chart is used to draw this diagram but the difference is that we use different shades, colors, or dots to distinguish between different phenomena.</string>
+    <string name="line_chart_text">A line chart or line plot or line graph or curve chart is a type of chart which displays information as a series of data points called markers connected by straight line segments. It is a basic type of chart common in many fields.</string>
+    <string name="bar_chart_text">A bar chart or bar graph is a chart or graph that presents categorical data with rectangular bars with heights or lengths proportional to the values that they represent. The bars can be plotted vertically or horizontally.</string>
+    <string name="example_of_line_chart">Example of Line chart</string>
+    <string name="example_of_half_pie_chart">Example of Half Pie chart</string>
+</resources>
